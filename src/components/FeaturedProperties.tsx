@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from 'react'
-import { Heart, MapPin, Bed, Bath, Square, ArrowRight, ChevronLeft, ChevronRight } from 'lucide-react'
+import { Heart, MapPin, Bed, Bath, Square, ArrowRight } from 'lucide-react'
 
 const properties = [
   {
